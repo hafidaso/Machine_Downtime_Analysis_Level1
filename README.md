@@ -88,6 +88,3 @@ This project focuses on analyzing machine downtime for a high-precision manufact
 
 ## 👥 Contributors
 - [Hafida Bleayd]
-
-## 📄 License
-[Specify License - e.g., MIT, Apache 2.0]
